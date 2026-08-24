@@ -1,0 +1,30 @@
+Starting Speech-to-Text conversion...
+Transcribing video file: /home/ubuntu/upload/Edit_Tutorialshared_andalsothisisnotavideo_it_saninteractivewebsite💖_--_I_vealwayswonderedwhyImakethingsforpeople.WhyIspendhours.mp4, file size: 1.67 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 28.4 seconds
+Language: tam
+Timestamped segments:
+[00:00.4 - 00:05.8] கண்மணி அன்போடு காதலன் நான் எழுதும் கடிதமே!
+[00:05.8 - 00:12.2] பொன்மணி உன் வீட்டில் சௌக்கியமா?
+[00:12.2 - 00:15.1] நான் இங்குச் சௌக்கியமே.
+[00:15.1 - 00:25.7] உன்னை எண்ணிப் பார்க்க என் கவிதை சுட்டுது அதை எழுது நினைக்க என் வார்த்தை முட்டுது.
+[00:25.7 - 00:28.3] ஓஹோ கண்மணி அன்பே.
+Complete transcription result saved to: /home/ubuntu/upload/Edit_Tutorialshared_andalsothisisnotavideo_it_saninteractivewebsite💖_--_I_vealwayswonderedwhyImakethingsforpeople.WhyIspendhours_transcription_20260824_051855.json
+Plain text transcription saved to: /home/ubuntu/upload/Edit_Tutorialshared_andalsothisisnotavideo_it_saninteractivewebsite💖_--_I_vealwayswonderedwhyImakethingsforpeople.WhyIspendhours_transcription_20260824_051855.txt
+[2J[H[3Jmanus-speech-to-text "/home/ubuntu/upload/Edit_Tutorialshared_andalsothisisnotavideo_it_saninteractivewebsite💖_--_I_vealwayswonderedwhyImakethingsforpeople.WhyIspendhours.mp4"
+Starting Speech-to-Text conversion...
+Transcribing video file: /home/ubuntu/upload/Edit_Tutorialshared_andalsothisisnotavideo_it_saninteractivewebsite💖_--_I_vealwayswonderedwhyImakethingsforpeople.WhyIspendhours.mp4, file size: 1.67 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:00.4 - 00:05.8] கண்மணி அன்போடு காதலன் நான் எழுதும் கடிதமே!
+[00:05.8 - 00:12.2] பொன்மணி உன் வீட்டில் சௌக்கியமா?
+[00:12.2 - 00:15.1] நான் இங்குச் சௌக்கியமே.
+[00:15.1 - 00:25.7] உன்னை எண்ணிப் பார்க்க என் கவிதை சுட்டுது அதை எழுது நினைக்க என் வார்த்தை முட்டுது.
+[00:25.7 - 00:28.3] ஓஹோ கண்மணி அன்பே.
+
+Completed transcription, JSON saved to /home/ubuntu/upload/Edit_Tutorialshared_andalsothisisnotavideo_it_saninteractivewebsite💖_--_I_vealwayswonderedwhyImakethingsforpeople.WhyIspendhours_transcription_20260824_051855.json
+Plain text transcription saved to /home/ubuntu/upload/Edit_Tutorialshared_andalsothisisnotavideo_it_saninteractivewebsite💖_--_I_vealwayswonderedwhyImakethingsforpeople.WhyIspendhours_transcription_20260824_051855.txt
