@@ -35,8 +35,8 @@ I love you more than I could ever put into words.`,
     "You are equal parts sunshine, chaos, and comfort.",
   ],
   memories: [
-    { id: "one", src: "./media/memory-one.png", alt: "A purple romantic memory collage", caption: "A universe filled with little hearts." },
-    { id: "two", src: "./media/memory-two.png", alt: "A violet love-themed memory collage", caption: "The details that feel like us." },
-    { id: "three", src: "./media/memory-three.png", alt: "A glowing purple romantic keepsake", caption: "You and me, held close in every memory." },
+    { id: "one", src: "https://ik.imagekit.io/yazinlink/yazin-link/uploads/yazin-link-1795129495734_h205v0ouk.png", alt: "A purple romantic memory collage", caption: "A universe filled with little hearts." },
+    { id: "two", src: "https://ik.imagekit.io/yazinlink/yazin-link/uploads/yazin-link-1795129523943_-8ImC04qW.png", alt: "A violet love-themed memory collage", caption: "The details that feel like us." },
+    { id: "three", src: "https://ik.imagekit.io/yazinlink/yazin-link/uploads/yazin-link-1795129541264_exe-YcT163.png", alt: "A glowing purple romantic keepsake", caption: "You and me, held close in every memory." },
   ],
 };
